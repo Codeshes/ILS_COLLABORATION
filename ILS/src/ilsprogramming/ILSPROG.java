@@ -6,7 +6,7 @@ public class ILSPROG {
 		System.out.println("TANGINA NIYONG LAHAT");
 		System.out.println("I love sti");	
 		System.out.println("I LOVE STI SO MUCH");
-	
+		System.out.println("I am nat");
 	
 	}
 
