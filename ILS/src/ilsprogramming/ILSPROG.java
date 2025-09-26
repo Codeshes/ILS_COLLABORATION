@@ -14,8 +14,12 @@ public class ILSPROG {
 		System.out.println("Enter your age");
 		int age = sc.nextInt();
 		
+		System.out.println("Are you male?");
+		boolean isMale = sc.nextBoolean();
+		
 		System.out.println("Your name is: " + name + "\n" + "Your age is: " + age);
-
+		System.out.println("Your gender is: " + isMale);
+		
 	}
 
 }
