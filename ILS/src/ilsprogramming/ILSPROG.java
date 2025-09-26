@@ -1,12 +1,17 @@
 package ilsprogramming;
 
+import java.util.Scanner;
+
 public class ILSPROG {
 
 	public static void main(String[] args) {
-		System.out.println("TANGINA NIYONG LAHAT");
-		System.out.println("I love sti");	
-		System.out.println("I LOVE STI SO MUCH");
-		System.out.println("I am nat");
+		Scanner sc = new Scanner(System.in);
+		
+		
+		System.out.println("Enter your name");
+		String name = sc.nextLine();
+		
+		System.out.println(names);
 	
 	}
 
