@@ -11,7 +11,12 @@ public class ILSPROG {
 		System.out.println("Enter your name");
 		String name = sc.nextLine();
 		
+		System.out.println("enter your age");
+		int age = sc.nextInt();
+		
+		System.out.println(age);
 		System.out.println(name);
+		
 	
 	}
 
