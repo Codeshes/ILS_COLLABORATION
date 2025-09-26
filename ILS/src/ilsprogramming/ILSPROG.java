@@ -13,11 +13,20 @@ public class ILSPROG {
 		
 		System.out.println("enter your age");
 		int age = sc.nextInt();
+		sc.nextLine();
 		
-		System.out.println(name);
-		System.out.println(age);
+		System.out.println("Enter your gender");
+		String gender = sc.nextLine();
 		
-	sc.close();
-	}
+		
+		
+			System.out.println(name);
+			System.out.println(age);
+			System.out.println(gender);
+			
+		sc.close();			
+		
 
-}
+		}
+	
+	}
