@@ -17,7 +17,7 @@ public class ILSPROG {
 		System.out.println(name);
 		System.out.println(age);
 		
-	
+	sc.close();
 	}
 
 }
