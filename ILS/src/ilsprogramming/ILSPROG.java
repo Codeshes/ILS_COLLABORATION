@@ -19,7 +19,7 @@ public class ILSPROG {
 		String gender = sc.nextLine();
 		
 		System.out.println("HEllo");
-		
+		System.out.println("HEllo :)");
 
 			System.out.println(name);
 			System.out.println(age);
