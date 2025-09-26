@@ -11,7 +11,7 @@ public class ILSPROG {
 		System.out.println("Enter your name");
 		String name = sc.nextLine();
 		
-		System.out.println(names);
+		System.out.println(name);
 	
 	}
 
